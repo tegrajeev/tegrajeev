@@ -26,7 +26,7 @@
 - I'm fluent in Data Structures and Algorithms.
 - Interested in working with 💡 individuals who have genuine passion for various developer tools. 
 - Eager to collaborate on meaningful projects that create a real difference .
-- Reach me at 📫 anuragino20@gmail.com 
+- Reach me at 📫 rajeevranjanrawat@gmail.com
 
 </div>
 </div>
@@ -48,10 +48,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragino&layout=compact&theme=dark&count_private=true" style="width: 43%;"/>
 </div>
 
-<div align="center">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=anuragino&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width:51%"/>
-</div>
 
 <br>
 
