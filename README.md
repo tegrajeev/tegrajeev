@@ -1,14 +1,14 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/anruagino/">Anurag</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hi there, I'm <a href="https://github.com/anruagino/">Rajeev Rawat</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
 <p align="center">
-   <a href="www.linkedin.com/in/anuragino"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/anuragino"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a> 
+   <a href="https://github.com/tegrajeev"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://github.com/tegrajeev"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a> 
 </p> 
 
 <div align="center">
-   <h3> 👩‍💻 BTech. Information Technology | 💻 Software Developer | 🛸 India  </h3>
+   <h3> 👩‍💻 Information Technology | 💻 Software Developer | 🛸 India  </h3>
 </div>
 
 
