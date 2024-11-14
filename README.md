@@ -26,7 +26,7 @@
 - I'm fluent in Data Structures and Algorithms.
 - Interested in working with 💡 individuals who have genuine passion for various developer tools. 
 - Eager to collaborate on meaningful projects that create a real difference .
-- Reach me at 📫 rajeevranjanrawat@gmail.com
+- Reach me at 📫 rajee.ranjan@healthworksai.com
 
 </div>
 </div>
