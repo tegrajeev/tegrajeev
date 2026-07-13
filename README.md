@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Bachelor%20of%20Computer%20Applications-Bangalore%20University-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/📍%20Location-Bangalore,%20India-4C1D95?style=flat-square"/>
+📍 <img src="https://img.shields.io/badge/Location-Bangalore,%20India-4C1D95?style=flat-square"/>
 
 <br/><br/>
 
@@ -57,8 +57,10 @@ My engineering philosophy centers on translating ambiguous business requirements
 
 <div align="center">
 
-| 🚀 Full-Time Roles | 🌐 Remote / Hybrid / On-site | 🤝 Open Source Collaboration | 🧩 Freelance Architecture Consulting |
-|:---:|:---:|:---:|:---:|
+🚀 <img src="https://img.shields.io/badge/Full--Time_Roles-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+🌐 <img src="https://img.shields.io/badge/Remote_%7C_Hybrid_%7C_On--site-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+🤝 <img src="https://img.shields.io/badge/Open_Source_Collaboration-6D28D9?style=flat-square&labelColor=1a1a2e"/>
+🧩 <img src="https://img.shields.io/badge/Freelance_Consulting-5B21B6?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
 
@@ -309,7 +311,7 @@ Owned manual and automated QA for a travel-tech SaaS platform, focused on cross-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajeevranjanrawat&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevranjanrawat&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=rajeevranjanrawat&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 <br/>
 
