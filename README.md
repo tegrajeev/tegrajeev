@@ -282,7 +282,7 @@ Performed functional, regression, integration, and API testing for hospitality a
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=tegrajeev&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=tegrajeev&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" />
 
 </div>
 
