@@ -306,8 +306,6 @@ Performed functional, regression, integration, and API testing for hospitality a
 
 </div>
 
-> To activate the snake animation, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repository named `tegrajeev/tegrajeev`.
-
 ---
 
 ## Current Focus
