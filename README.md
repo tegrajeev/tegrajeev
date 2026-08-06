@@ -302,7 +302,7 @@ Performed functional, regression, integration, and API testing for hospitality a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tegrajeev/tegrajeev/output/github-contribution-grid-snake-light.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/tegrajeev/tegrajeev/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
