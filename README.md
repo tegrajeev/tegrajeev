@@ -272,7 +272,7 @@ Performed functional, regression, integration, and API testing for hospitality a
 
 <br/>
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tegrajeev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
 
 </div>
 
